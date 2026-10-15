@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rag-ingest"
+version = "0.1.0"
+description = "Incremental RAG ingestion with PII redaction, hybrid search and retrieval evaluation"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Gopi Dodda" }]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+markers = ["integration: needs a Postgres with pgvector at PG_DSN (skipped otherwise)"]
