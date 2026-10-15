@@ -1,0 +1,21 @@
+{"question": "How long do I have to appeal a denied claim?", "gold_chunk_ids": ["member-handbook::appeals::0"]}
+{"question": "What is the grace period for late premium payments?", "gold_chunk_ids": ["member-handbook::premiums-and-billing::0"]}
+{"question": "Until what age are dependents covered?", "gold_chunk_ids": ["member-handbook::eligibility::0"]}
+{"question": "Deadline to submit an out-of-network claim form", "gold_chunk_ids": ["member-handbook::claims::0"]}
+{"question": "How much does a tier 2 preferred brand drug cost?", "gold_chunk_ids": ["pharmacy-benefits::formulary-tiers::0"]}
+{"question": "Is a 90-day mail order supply cheaper?", "gold_chunk_ids": ["pharmacy-benefits::mail-order::0"]}
+{"question": "Where do I fill specialty drugs?", "gold_chunk_ids": ["pharmacy-benefits::specialty-drugs::0"]}
+{"question": "What is the copay for a telehealth urgent care visit?", "gold_chunk_ids": ["telehealth-policy::cost-sharing::0"]}
+{"question": "Can I get controlled substances through telehealth?", "gold_chunk_ids": ["telehealth-policy::limitations::0"]}
+{"question": "Why did my monthly premium go up?", "gold_chunk_ids": ["faq-billing::why-did-my-premium-change::0"]}
+{"question": "How do I turn on autopay bank drafts?", "gold_chunk_ids": ["faq-billing::how-do-i-set-up-autopay::0"]}
+{"question": "Do you sell member data?", "gold_chunk_ids": ["privacy-notice::how-we-use-information::0"]}
+{"question": "Which services need prior authorization?", "gold_chunk_ids": ["prior-authorization-policy::services-requiring-prior-authorization::0"]}
+{"question": "How fast are urgent prior authorization requests decided?", "gold_chunk_ids": ["prior-authorization-policy::turnaround-times::0"]}
+{"question": "What percent is paid for out-of-network services?", "gold_chunk_ids": ["out-of-network-policy::coverage-levels::0"]}
+{"question": "Is the emergency room covered at an out-of-network hospital?", "gold_chunk_ids": ["out-of-network-policy::emergency-care::0"]}
+{"question": "When does open enrollment run?", "gold_chunk_ids": ["faq-enrollment::when-is-open-enrollment::0"]}
+{"question": "How soon must I add a newborn baby?", "gold_chunk_ids": ["faq-enrollment::adding-a-newborn::0"]}
+{"question": "How do I request an independent external review?", "gold_chunk_ids": ["grievance-process::external-review::0"]}
+{"question": "What is the dental annual maximum for crowns?", "gold_chunk_ids": ["dental-rider::major-services::0"]}
+{"question": "How often is the eyewear frame allowance available?", "gold_chunk_ids": ["vision-rider::eyewear-allowance::0"]}
